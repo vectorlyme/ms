@@ -2,13 +2,27 @@
 /* CSS Document */
 
 h1 {
-	font-size: 2.0em;
-	font-family: 'Merriweather', serif;
+	font-size: 2.6em;
+	font-family: 'Josefin Slab', serif;
+	font-weight: 300;
 	color: #FFFFFF;
+	margin: 0.3em 0.7em;
+	display: block;
 }
 .logo {
 	margin: 1.2em;
-	padding: 1.2em;
-	width: 35%;
+	padding: 0.7em;
 	background-color: #000000;
+	display: block;
+	float: left;
 }
+
+
+
+
+
+
+
+
+
+
