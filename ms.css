@@ -3,5 +3,12 @@
 
 h1 {
 	font-size: 2.0em;
-	font-family: 'Oranienbaum', serif;
+	font-family: 'Merriweather', serif;
+	color: #FFFFFF;
+}
+.logo {
+	margin: 1.2em;
+	padding: 1.2em;
+	width: 35%;
+	background-color: #000000;
 }
